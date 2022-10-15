@@ -1,2 +1,3 @@
 # TeamA
-Chap 2, 3, 7
+Chap 3
+Editor: 윤호

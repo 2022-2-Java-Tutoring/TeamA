@@ -1,3 +1,4 @@
 # TeamA
-Chap 3
-Editor: 윤호
+Editors
+Chap 2: 유림, 
+Chap 3: 윤호,

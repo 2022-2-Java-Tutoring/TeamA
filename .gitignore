@@ -6,3 +6,4 @@
 !/Chap*/*-*-*/src
 /Chap*/*-*-*/src/*
 !/Chap*/*-*-*/src/*.java
+!/Chap*/*-*-*/src/*.txt

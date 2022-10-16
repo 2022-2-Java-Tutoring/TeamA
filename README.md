@@ -1,3 +1,4 @@
 # TeamA
-Chap 2
-Editor: 유림
+Editors
+Chap 2: 유림, 
+Chap 3: 윤호,

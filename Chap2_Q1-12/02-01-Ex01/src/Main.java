@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ChangeMoney {
+public class Main {
 	
 	public static void main(String[] args) {
 		final double rate = 1100;
